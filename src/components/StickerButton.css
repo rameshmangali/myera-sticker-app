@@ -1,0 +1,12 @@
+.sticker-btn {
+  border: 2px solid #ffcc80;
+  background-color: #fff8e1;
+  border-radius: 10px;
+  padding: 10px 15px 10px 15px;
+}
+
+.sticker-btn:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  border: 2px solid #c488882d;
+}
