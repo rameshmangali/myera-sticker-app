@@ -17,7 +17,7 @@ A simple, interactive React + Konva web app that lets users drag-and-drop sticke
 
 ## 📸 Demo
 
-> 🎥 Optional: [Loom Demo Video](https://loom.com/your-demo-link)  
+> 🎥 Demo: [Loom Demo Video](https://drive.google.com/file/d/1Qh2xcvqdksyaCvzwZUyUd5AS_ssH5e_G/view)  
 > 🧪 Try it locally using the steps below!
 
 
